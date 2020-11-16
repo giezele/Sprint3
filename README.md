@@ -12,4 +12,5 @@ Create Project Manager using OOP PHP, ORM, Composer, MVC Architecture.
 1. Clone the repository https://github.com/giezele/Sprint3
 2. Edit bootstrap.php file with your SQL credentials 
 ```
-
+    'user'     => 'root',
+    'password' => ''
