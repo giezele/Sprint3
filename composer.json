@@ -1,0 +1,20 @@
+{
+    "name": "giedre/sprint3",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "giezele",
+            "email": "giedre.zel@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.7",
+        "beberlei/doctrineextensions": "^1.2"
+    },
+    "autoload": {
+        "psr-4": { 
+			"Models\\": "src/models/"
+		}
+    }
+}
