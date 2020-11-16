@@ -12,7 +12,7 @@ $useSimpleAnnotationReader = false;
 $config = Setup::createAnnotationMetadataConfiguration(array(__DIR__."/src/models"), $isDevMode, $proxyDir, $cache, $useSimpleAnnotationReader);
 
 
-//update value if git-cloned repo to other than www/Sprint3 directory 
+//update value if git-cloned repo to other than Ampps/www/Sprint3 directory 
 define('ROOT_PATH', '/Sprint3'); 
 
 // database configuration parameters
